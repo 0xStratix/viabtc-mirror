@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0xstratix.github.io/viabtc-mirror/sitemap.xml
